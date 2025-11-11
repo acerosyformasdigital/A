@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Product Catalog",
+  "description": "An interactive and visually appealing product catalog application. It uses the Gemini API to dynamically generate product data and presents it in a searchable and filterable interface.",
+  "requestFramePermissions": []
+}
